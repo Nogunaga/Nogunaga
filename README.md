@@ -21,6 +21,8 @@ Soy un programador frontend trainee apasionado por crear experiencias web intera
 
 - ![react_original_logo_icon_146374](https://github.com/user-attachments/assets/e07e7c87-35a8-4a3c-816d-42a887c59142)
 
+- ![file_type_node_icon_130301](https://github.com/user-attachments/assets/183af2af-7c54-4625-86e8-2440df436184)
+
 - ![file_type_vscode_icon_130084](https://github.com/user-attachments/assets/1c70b07b-9ad2-428f-9a5b-d0556138df0b)
 
 - ![file_type_git_icon_130581](https://github.com/user-attachments/assets/f5bd70c1-c7c0-484f-9500-457bb15601e7)
