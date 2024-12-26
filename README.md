@@ -50,7 +50,7 @@ Descripción breve del proyecto y tecnologías usadas. -->
 Me encanta colaborar en proyectos open source y aprender de otros desarrolladores. ¡No dudes en abrir un pull request o crear un issue en mis repositorios!
 
 ## Más sobre mí
-Cuando no estoy programando, me gusta escuchar Música  ![rock](https://github.com/user-attachments/assets/cd8f3a9c-a1d5-4f08-9ff6-25b1bbfee0c0) . Pero siempre estoy siempre dispuesto a aprender y enfrentar nuevos desafíos. 
+Cuando no estoy programando, me gusta escuchar Música  ![rock](https://github.com/user-attachments/assets/cd8f3a9c-a1d5-4f08-9ff6-25b1bbfee0c0) . Pero siempre estoy  dispuesto a aprender y enfrentar nuevos desafíos. 
 ---
 
 **"El código es como la poesía; se debe escribir con pasión y corazón."**
